@@ -1,5 +1,10 @@
 {
   "allOrNothing": true,
+  "microProject": {
+    "title": "MicroProject #1: Trends in High School GPAs",
+    "image": "https://waf-server-01.cs.illinois.edu/static/up-cards/01/regular.svg",
+    "link": "https://mastery.cs.illinois.edu/platform/cards/"
+  },
   "tests": [
     {
       "name": "Part 2.1: Highest Percentage of Freshman with 4.00 High School GPAs",
