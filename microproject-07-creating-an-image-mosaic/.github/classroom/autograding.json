@@ -2,7 +2,7 @@
   "allOrNothing": true,
   "microProject": {
     "title": "MicroProject #7: Creating an Image Mosaic",
-    "image": "https://waf-server-01.cs.illinois.edu/static/up-cards/creating-an-image-mosaic/regular.svg",
+    "image": "https://waf-server-01.cs.illinois.edu/static/up-cards/up-image-mosaic/regular.svg",
     "link": "https://mastery.cs.illinois.edu/platform/cards/"
   },
   "tests": [
