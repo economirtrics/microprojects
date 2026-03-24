@@ -1,0 +1,58 @@
+{
+  "allOrNothing": true,
+  "microProject": {
+    "title": "MicroProject #7: Creating an Image Mosaic",
+    "image": "https://waf-server-01.cs.illinois.edu/static/up-cards/up-image-mosaic/regular.svg",
+    "link": "https://mastery.cs.illinois.edu/platform/cards/"
+  },
+  "tests": [
+    {
+      "name": "Section 1: Loading the DISCOVERY Library",
+      "setup": "",
+      "run": "pytest test_microproject-07-creating-an-image-mosaic.py::test_Section_1__Loading_the_DISCOVERY_Library",
+      "comparison": "included",
+      "timeout": 0.5,
+      "points": 1
+    },
+    {
+      "name": "Section 2: Accessing Color Data",
+      "setup": "",
+      "run": "pytest test_microproject-07-creating-an-image-mosaic.py::test_Section_2__Accessing_Color_Data",
+      "comparison": "included",
+      "timeout": 0.1,
+      "points": 1
+    },
+    {
+      "name": "Section 4: Find the Average Color of ANY Image",
+      "setup": "",
+      "run": "pytest test_microproject-07-creating-an-image-mosaic.py::test_Section_4__Find_the_Average_Color_of_ANY_Image",
+      "comparison": "included",
+      "timeout": 0.1,
+      "points": 1
+    },
+    {
+      "name": "Section 5: Dividing Your Base Image Into Small Grid Tiles",
+      "setup": "",
+      "run": "pytest test_microproject-07-creating-an-image-mosaic.py::test_Section_5__Dividing_Your_Base_Image_Into_Small_Grid_Tiles",
+      "comparison": "included",
+      "timeout": 0.1,
+      "points": 1
+    },
+    {
+      "name": "Section 6: Finding the Average Color of a Subset",
+      "setup": "",
+      "run": "pytest test_microproject-07-creating-an-image-mosaic.py::test_Section_6__Finding_the_Average_Color_of_a_Subset",
+      "comparison": "included",
+      "timeout": 0.1,
+      "points": 1
+    },
+    {
+      "name": "Section 8: Finding the Best Match",
+      "setup": "",
+      "run": "pytest test_microproject-07-creating-an-image-mosaic.py::test_Section_8__Finding_the_Best_Match",
+      "comparison": "included",
+      "timeout": 0.1,
+      "points": 1
+    }
+  ]
+}

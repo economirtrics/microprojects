@@ -1,0 +1,29 @@
+# We're providing a very aggressive .gitignore in this MicroProject
+# to avoid uploading thousands of tile images to GitHub by running
+# a `git add` command.
+
+
+# Ignore all image files:
+*.jpg
+*.jpeg
+*.png
+*.heic
+tiles
+
+# Ignore all folders, except `.github`:
+*
+!.github
+!.github/*
+!.github/*/*
+!lib
+!lib/DISCOVERY.py
+
+# Keep all Python files and starter files:
+!*.py
+!*.ipynb
+
+!requirements.txt
+!mosaic-web.jpg
+!sample.png
+!sample2.png
+!.gitignore
